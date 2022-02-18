@@ -1,0 +1,35 @@
+.container{
+    padding-bottom: 60px;
+}
+.navbar-brand img{
+    height: 60px;
+}
+.btn-rounded{
+    border-radius: 40px;
+    color: whitesmoke;
+}
+.single-service img{
+    height: 80px;
+}
+.course-info img{
+    height: 20px;
+  
+
+}
+.para{
+    color: #31236b;
+}
+.footer{
+    background-color:#282531;
+    padding-top: 60px;
+}
+footer a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+footer li{
+    padding-top: 10px;
+}
+.huss{
+    height: 160px;
+}
